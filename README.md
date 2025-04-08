@@ -1,5 +1,5 @@
 # Multilingual-Sign-Language-Recognizer
-This project aims to develop a multilingual sign language recognizer with support for American Sign Language (ASL), Indian Sign Language (ISL), and Russian Sign Language. The recognizer utilizes deep learning techniques and convolutional neural networks (CNN) to analyze sign language gestures and classify them into the respective languages.
+This project aims to develop a multilingual sign language recognizer with support for American Sign Language (ASL), Indian Sign Language (ISL), . The recognizer utilizes deep learning techniques and convolutional neural networks (CNN) to analyze sign language gestures and classify them into the respective languages.
 
 ## Python Version
 
@@ -13,5 +13,8 @@ To install the required libraries for this project, follow these steps:
 2. Navigate to the folder containing the `requirements.txt` file.
 3. Run the following command:`pip install -r requirements.txt`
 
+## Run 
 
+To run the code run the command on integrated terminal
+streamlit run main.py
 
