@@ -15,6 +15,6 @@ To install the required libraries for this project, follow these steps:
 
 ## Run 
 
-To run the code run the command on integrated terminal
+To run the code run the command on integrated terminal.
 streamlit run main.py
 
